@@ -26,3 +26,37 @@ http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/644
 http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/643
 #EXTINF:-1, DALIA 13
 http://54.36.123.36:8080/XX-BABESTV/index.m3u8
+#EXTINF:-1 DALIA 14
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/643
+#EXTINF:-1 DALIA 15
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/644
+#EXTINF:-1 DALIA 16
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/645
+#EXTINF:-1 DALIA 17
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/646
+#EXTINF:-1 DALIA 18
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/647
+#EXTINF:-1 DALIA 19
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/648
+#EXTINF:-1 DALIA 20
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/649
+#EXTINF:-1 DALIA 21
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/650
+#EXTINF:-1 DALIA 22
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/651
+#EXTINF:-1 DALIA 23
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/652
+#EXTINF:-1 DALIA 24
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/653
+#EXTINF:-1 DALIA 25
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/654
+#EXTINF:-1 DALIA 26
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/655
+#EXTINF:-1 DALIA 27
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/656
+#EXTINF:-1 DALIA 28
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/657
+#EXTINF:-1 DALIA 20
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/658
+#EXTINF:-1 DALIA 30
+http://tiyagotrocas.3utilities.com:3698/tiyago_adults/KYN3WTZKxW/659
